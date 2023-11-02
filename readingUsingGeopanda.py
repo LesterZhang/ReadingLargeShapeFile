@@ -4,6 +4,8 @@ import pickle
 
 if __name__ == '__main__':
 
+    #This file is tpo read the shape file 'ft_ptl.shp', the file size is over 1Gb (nearly 12 Million data entries). It took over 20 minutes to read the file. 
+
     time1= datetime.now()
     print(time1)
 
