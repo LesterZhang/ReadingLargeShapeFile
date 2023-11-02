@@ -5,4 +5,12 @@ I have been using geopandas, and enjoying the package to working on the shape fi
 
 In Sophia Parafina's article reffered above, she said she experimented to stream the data using pickle package, and compress the data to stream, and read and write, and the speed of reading and writting even fast. A third version of the code was added to check how well the pickle package in dealing with the large size data. 
 
+The file codes are included in here: 
+  readingUsingGeopanda.py
+  readingUsingPygiro.py
+  readingUsingPygrioPickle.py
+  readingPickleFile.py
+  ReadAndZipPickleFile.py
+  ReadGZipFile.py
+
 
