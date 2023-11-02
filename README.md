@@ -7,10 +7,15 @@ In Sophia Parafina's article reffered above, she said she experimented to stream
 
 The file codes are included in here: 
   readingUsingGeopanda.py
+  
   readingUsingPygiro.py
+  
   readingUsingPygrioPickle.py
+  
   readingPickleFile.py
+  
   ReadAndZipPickleFile.py
+  
   ReadGZipFile.py
 
 
